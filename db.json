@@ -24,11 +24,13 @@
           {
             "id": 1,
             "body": "some comment",
+            "user": "xyz",
             "postId": 1
           },
           {
             "id": 2,
             "body": "some comment",
+            "user": "wasd",
             "postId": 1
           }
         ]

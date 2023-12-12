@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id":1,
+            "todo": [
+                "Chores","Cooking"
+            ],
+            "finished":[
+                "Painting"
+            ]
+        },
+        {
+            "id":2,
+            "todo": [
+                "Workout"
+            ],
+            "finished":[
+                "Learning"
+            ]
+        }
+    ]
+}

@@ -1,37 +1,8 @@
 {
-    "users": [
-        {
-            "id":1,
-            "todo": [
-                "Chores","Cooking"
-            ],
-            "finished":[
-                "Painting"
-            ]
-        },
-        {
-            "id":2,
-            "todo": [
-                "Workout"
-            ],
-            "finished":[
-                "Learning"
-            ]
-        }
-    ],
-    "comments":
-        [
-          {
-            "id": 1,
-            "body": "some comment",
-            "user": "xyz",
-            "postId": 1
-          },
-          {
-            "id": 2,
-            "body": "some comment",
-            "user": "wasd",
-            "postId": 1
-          }
-        ]
+    "teendok": [
+        { "id": 1, "cim": "lorem ipsum", "kesz": true },
+        { "id": 2, "cim": "doloret sit amet", "kesz": false },
+        { "id": 3, "cim": "consectetur adipiscit", "kesz": true },
+        { "id": 4, "cim": "elit alea iacta est", "kesz": false }
+    ]
 }
